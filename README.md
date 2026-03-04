@@ -315,4 +315,6 @@ supercell.squad
 tw.sonet.allbw
 tw.sonet.princessconnect
 xd.sce.promotion
+com.netease.dfjssea
+com.feralinteractive.gridas
 ```
